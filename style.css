@@ -100,7 +100,6 @@ a {
   color: var(--very-light-gray);
 }
 
-/* Responsividade para Desktop */
 @media (min-width: 1440px) {
   main {
     height: 100%;
